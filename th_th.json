@@ -1,0 +1,12 @@
+{
+  "entity.taczbosses.boss_1": "ร้อยตรีรอคกี้",
+  "entity.taczbosses.boss_2": "เงาสไนเปอร์",
+  "entity.taczbosses.boss_3": "จ่าเคมีเหล็ก",
+  "entity.taczbosses.boss_4": "หน่วยสอดแนมพิฆาต",
+  "entity.taczbosses.boss_5": "ราชันผู้พิทักษ์ปราการ",
+  "item.taczbosses.boss_1_spawn_egg": "ไข่เสก ร้อยตรีรอคกี้",
+  "item.taczbosses.boss_2_spawn_egg": "ไข่เสก เงาสไนเปอร์",
+  "item.taczbosses.boss_3_spawn_egg": "ไข่เสก จ่าเคมีเหล็ก",
+  "item.taczbosses.boss_4_spawn_egg": "ไข่เสก หน่วยสอดแนมพิฆาต",
+  "item.taczbosses.boss_5_spawn_egg": "ไข่เสก ราชันผู้พิทักษ์ปราการ"
+}

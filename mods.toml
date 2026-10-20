@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="taczbosses"
+version="0.1.0"
+displayName="Tacz bosses"
+description='''Five boss fights armed with TACZ guns and Survival Instinct weapons.'''
+
+[[dependencies.taczbosses]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.taczbosses]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.taczbosses]]
+modId="tacz"
+mandatory=true
+versionRange="[1.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.taczbosses]]
+modId="survival_instinct"
+mandatory=false
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
